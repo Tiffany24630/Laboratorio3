@@ -6,7 +6,7 @@
 * Carnet: 24630
 */
 
-//Video explicando el programa:
+//Video explicando el programa: https://youtu.be/1rbMJgpIMEY
 
 fun main() {
     //Extensión de clase food
